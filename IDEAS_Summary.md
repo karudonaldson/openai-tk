@@ -12,4 +12,19 @@
 
 
 2. Provisioning Customer Project
-3. Daily maintenance tasks in cron
+3. Hosting Daily Maintenance and Auto Healing Scripts
+4. Open AI TK Conversation Tracker
+5. Finance AI Pro Subscription
+6. Customer Provisioning Scripts and Process Automation
+7. Auto populate a Drupal Project Provionsing File 
+- Capture in JSON/YAML format
+- Capture via webformm
+- Use to create customer in Xero API
+- Once customer is created in Xero, Do a Xero API GET in Hubspot to pull customer to hubspot
+- Same with Jira to prepulate new customer records in Hubspot
+
+Original deal should existin hubspot before a customer exists
+
+# Create a provisioning automation for onboarding a new customer in Azure AD
+# Pull account info through Xero, Black Kite, 
+# 
